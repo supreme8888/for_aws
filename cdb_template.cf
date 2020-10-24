@@ -70,7 +70,7 @@
       "eu-west-2"  : { "AMI" : "ami-e1768386" },
       "eu-west-3"   : { "AMI" : "ami-06340c8c12baa6a09" },
       "sa-east-1"  : { "AMI" : "ami-0ad7b0031d41ed4b9" },
-      "us-east-1"  : { "AMI" :  "ami-04681a1dbd79675a5" },
+      "us-east-1"  : { "AMI" :  "ami-0947d2ba12ee1ff75" },
       "us-east-2"   : { "AMI" : "ami-0cf31d971a3ca20d6" },
       "us-west-1"  : { "AMI" : "ami-0782017a917e973e7" },
       "us-west-2"  : { "AMI" : "ami-6cd6f714" }
