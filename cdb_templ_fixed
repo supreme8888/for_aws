@@ -135,8 +135,7 @@
                             "Type" : "S3"
                           }
                  }
-            },
-
+          
   
         "SecurityGroupEgress": [
                     {
